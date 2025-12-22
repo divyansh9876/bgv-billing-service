@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  This is the JRebel configuration file. It maps the running application to your IDE workspace, enabling JRebel reloading for features like             
+  Appliance-managed reloading reloading.
+  For more information about this file, see https://manuals.jrebel.com/jrebel/standalone/config.html
+-->
+<application generated-by="intellij" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.zeroturnaround.com"
+             xsi:schemaLocation="http://www.zeroturnaround.com http://update.zeroturnaround.com/jrebel/rebel-2_3.xsd">
+
+	<id>bgv-billing-service</id>
+
+	<classpath>
+		<dir name="C:/Users/Divyansh Bhatt/Videos/BGV/bgv-billing-service/bgv-billing-service/target/classes">
+		</dir>
+	</classpath>
+
+</application>
